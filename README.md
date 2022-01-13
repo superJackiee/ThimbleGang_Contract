@@ -1,2 +1,1 @@
-# ThimbleGang_Contract
-SmartContract for ThimbleGang
+"# ThimbleGang-SmartContract" 

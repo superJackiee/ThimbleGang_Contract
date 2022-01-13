@@ -1,0 +1,18 @@
+
+Great, here I have a rough outline of how I want it work
+
+1st Stage is Drop:
+
+- 500 Units total
+- 300 Men
+- 200 Women
+- Duration: until all 500 units are sold.
+- How: I want users to be able mint up to 10 units per wallet in secquencial order.
+
+2nd Stage is Breeding:
+
+- Women can breed and give birth 5x times every 48 hours.
+- Men can mate 4x times every 48 hours.
+- 1000 max units will be produced from breeding
+
+the specific population numbers aren't exact but the total number is 1500
